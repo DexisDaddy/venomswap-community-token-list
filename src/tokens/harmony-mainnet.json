@@ -214,5 +214,13 @@
     "name": "Fraterium Rent",
     "decimals": 9,
     "logoURI": "https://drive.google.com/file/d/1qLaSrRdgEbK8ibxhEp3zrYWGaOyzSybI/view?usp=sharing"
+  },
+  {
+    "chainId":1666600000,
+    "address":"0xfeb2303376f125d16367c8e9bb3dfeff2ccd2425",
+    "symbol":"ANT",
+    "name":"Working Ants",
+    "decimals":18,
+    "logoURI":"https://drive.google.com/file/d/1PrXWT3RCZCYi9mE9d8x56d5d1Gc3euum/view?usp=sharing"
   }
 ]
